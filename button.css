@@ -1,0 +1,60 @@
+/* .box{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border-radius: 40px;
+    /* box-shadow: 7px 4px 0 0 rgb(0, 3,4); */
+    /* width: 400px;
+    height: 400px;
+    
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.body{
+    background-image: url('images.jpg');
+    background-size: cover; /* or contain depending on your preference */
+    /* background-repeat: no-repeat;
+    height: 100vh; /* Ensures that the background covers the entire viewport height */
+    /* margin: 0; /* Removes default body margin */ 
+    /* background-attachment: fixed;
+    background-position: center;
+    font-family: Arial, sans-serif; */ 
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+/* } */ 
+
+.container {
+    /* background-color: rgb(47, 55, 94); */
+    text-align: center;
+    padding: 100px;
+}
+.box {
+    background: rgba(163, 190, 255, 0.8);
+    padding: 50px;
+    border-radius: 15px;
+    display: inline-block;
+}
+input {
+    width: 200px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15px;
+}
+button {
+    width: 100px;
+    padding: 9px;
+    margin: 5px;
+    /* background-color: rgb(247, 246, 250); */
+    border-radius: 15px;
+}
+a {
+    color:black
+}
+
